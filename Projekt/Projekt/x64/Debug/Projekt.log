@@ -1,0 +1,7 @@
+﻿  board.cpp
+c:\users\kinga\desktop\studia\semestr 2\jipp\projekt\projekt\board.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kinga\desktop\studia\semestr 2\jipp\projekt\projekt\board.cpp(247): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kinga\desktop\studia\semestr 2\jipp\projekt\projekt\board.cpp(305): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kinga\desktop\studia\semestr 2\jipp\projekt\projekt\board.cpp(383): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kinga\desktop\studia\semestr 2\jipp\projekt\projekt\board.cpp(174): warning C4715: 'Board::get': not all control paths return a value
+  Projekt.vcxproj -> C:\Users\kinga\Desktop\Studia\SEMESTR 2\JIPP\Projekt\x64\Debug\Projekt.exe
